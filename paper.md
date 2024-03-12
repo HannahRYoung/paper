@@ -1,7 +1,7 @@
 # Title
 Modelling greenhouse gas emissions of rural UK archetypes
 
-#Author
+# Author
 Hannah Young
 Amanda Thomson
 
@@ -13,8 +13,11 @@ Someone else had previously done some studies in this region but not for these a
 
 We are going to do something different and actually calculate some greenhouse gas emissions using our models.
 
-#Simulations
+# Simulations
 We ran some simulations of greehouse gas fluxes in the archetypes.
 
-#Methodology
+# Methodology
 Used the LULUCF inventory models. (LULUCF, 2023)
+
+# Results
+The Greenhouse Gas emissions are very interesting.
