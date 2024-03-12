@@ -1,5 +1,5 @@
 # Title
-Paper about greenhouse gas emissions in rural UK
+Greenhouse gas emissions of rural UK archetypes
 
 #Author
 Hannah Young
