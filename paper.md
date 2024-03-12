@@ -15,3 +15,6 @@ We are going to do something different and actually calculate some greenhouse ga
 
 #Simulations
 We ran some simulations of greehouse gas fluxes in the archetypes.
+
+#Methodology
+Used the LULUCF inventory models. (LULUCF, 2023)
