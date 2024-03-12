@@ -2,8 +2,8 @@
 Modelling greenhouse gas emissions of rural UK archetypes
 
 # Author
-Amanda Thomson
-Hannah Young
+Amanda Thomson (UKCEH)
+Hannah Young (University of somewhere)
 
 # Introduction
 We present modelled greenhouse gas emissions for different land uses in rural UK.
