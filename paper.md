@@ -6,3 +6,4 @@ Hannah Young
 
 # Introduction
 We present modelled greenhouse gas emissions for different land uses in rural UK.
+Rural areas were based on land use archetypes (Young and Thomson, 2023).
