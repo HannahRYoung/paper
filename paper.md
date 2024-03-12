@@ -21,3 +21,6 @@ Used the LULUCF inventory models. (LULUCF, 2023)
 
 # Results
 The Greenhouse Gas emissions are very interesting.
+
+# Figures
+Figures go in here.
