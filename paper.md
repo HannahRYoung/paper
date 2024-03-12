@@ -24,3 +24,6 @@ The Greenhouse Gas emissions are very interesting.
 
 # Figures
 Figures go in here.
+
+#Conclusions
+This is really great work looking at greenhouse gas emissions in land use archetypes.
